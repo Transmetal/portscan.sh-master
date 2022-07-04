@@ -10,6 +10,8 @@ Its a script which has all the best available options to find open ports and the
 ```
 ## Installation
 ```
+$ git clone https://github.com/Transmetal/portscan.sh-master
+$ cd 
 $ sudo chmod +x install.sh
 $ ./install.sh
 ```
